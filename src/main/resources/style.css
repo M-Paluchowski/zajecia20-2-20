@@ -1,0 +1,19 @@
+.bgRed {
+    background-color: red;
+}
+
+.fBlue {
+    color: blue;
+}
+
+#a1 {
+    color: green;
+}
+
+.wh {
+    background: aqua;
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    padding: 10px;
+}
